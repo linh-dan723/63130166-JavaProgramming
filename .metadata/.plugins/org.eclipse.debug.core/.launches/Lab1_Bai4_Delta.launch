@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Lab1_Bai4_Delta/src/tiil/edu/Lab1_Bai4_Delta.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="tiil.edu.Lab1_Bai4_Delta"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Lab1_Bai4_Delta"/>
+</launchConfiguration>
